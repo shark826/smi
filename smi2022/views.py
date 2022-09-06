@@ -7,3 +7,5 @@ from smi2022.models import *
 class GurnalSmi(ListView):
     model = GurnalSmi
 
+class GurnalSmiSocNet(ListView):
+    model = GurnalSocNet
